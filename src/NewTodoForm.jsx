@@ -23,7 +23,7 @@ export function NewTodoForm({ onSubmit }) {
 					id="item"
 				/>
 			</div>
-			<button id="ADD" className="btn">
+			<button id="submit" className="btn">
 				Add
 			</button>
 		</form>
